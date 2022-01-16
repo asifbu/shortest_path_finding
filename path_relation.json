@@ -1,0 +1,32 @@
+[
+    {
+        "node":"a",
+        "relation_with": "b",
+        "weight": "2"
+    },
+    {
+        "node":"a",
+        "relation_with": "d",
+        "weight": "5"
+    },
+    {
+        "node":"a",
+        "relation_with": "c",
+        "weight": "11"
+    },
+    {
+        "node":"b",
+        "relation_with": "c",
+        "weight": "4"
+    },
+    {
+        "node":"c",
+        "relation_with": "d",
+        "weight": "3"
+    },
+    {
+        "node":"d",
+        "relation_with": "a",
+        "weight": "5"
+    }
+]
